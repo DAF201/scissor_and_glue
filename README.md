@@ -8,4 +8,5 @@ mkdir Workspace
 cd Workspace
 git clone https://github.com/DAF201/scissor_and_glue.git 
 pip install git+https://github.com/DAF201/scissor_and_glue.git
+cd scissor_and_glue
 ```
