@@ -1,1 +1,1 @@
-this is the out put file
+this is the out put folder
