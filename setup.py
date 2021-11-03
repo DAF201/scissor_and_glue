@@ -10,7 +10,7 @@ setuptools.setup(
     url='https://github.com/DAF201/scissor_and_glue',
     packages=['scissor_and_glue'],
     install_requires=[
-    'PIL>=1.1.7',
-    'numpy>=1.16.6',
+    'pillow',
+    'numpy',
     ]
 )
