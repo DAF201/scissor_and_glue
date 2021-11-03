@@ -11,5 +11,6 @@ setuptools.setup(
     install_requires=[
     'pillow',
     'numpy',
+    'pathlib'
     ]
 )
