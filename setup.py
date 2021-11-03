@@ -8,7 +8,6 @@ setuptools.setup(
     author='DAF201',
     description='scissor_and_glue',
     url='https://github.com/DAF201/scissor_and_glue',
-    packages=['scissor_and_glue'],
     install_requires=[
     'pillow',
     'numpy',
